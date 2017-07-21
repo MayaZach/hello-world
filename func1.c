@@ -12,5 +12,4 @@ return 2;
 
 int synartish2(int a,int b){
    return (a+b);
-
 }
